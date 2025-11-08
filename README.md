@@ -30,9 +30,9 @@ A linguagem de programação utilizada para resolver cada exercício foi o Pytho
 
 ![Screenshot do exercício ](assets/)
 
-### Exercício 03 - Médio - 
+### Exercício 03 - Médio - 324. Wiggle Sort II
 
-![Screenshot do exercício ](assets/)
+![Screenshot do exercício ](assets/324_screenshot.png)
 
 ### Exercício 04 - Médio -
 
