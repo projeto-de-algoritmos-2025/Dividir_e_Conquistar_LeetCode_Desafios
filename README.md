@@ -22,15 +22,15 @@ A linguagem de programação utilizada para resolver cada exercício foi o Pytho
 
 ## Screenshots
 
-### Exercício 01 - Difícil - 
+### Exercício 01 - Difícil - 493. Reverse Pairs
 
-![Screenshot do exercício](assets/)
+![Screenshot do exercício](assets/493_screenshot.png)
 
 ### Exercício 02 - Difícil - 
 
 ![Screenshot do exercício ](assets/)
 
-### Exercício 03 - Difícil - 
+### Exercício 03 - Médio - 
 
 ![Screenshot do exercício ](assets/)
 
