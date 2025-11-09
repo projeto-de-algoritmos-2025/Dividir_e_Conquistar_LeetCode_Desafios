@@ -26,17 +26,17 @@ A linguagem de programação utilizada para resolver cada exercício foi o Pytho
 
 ![Screenshot do exercício](assets/493_screenshot.png)
 
-### Exercício 02 - Difícil - 
+### Exercício 02 - Difícil -  315. Count of Smaller Numbers After Self
 
-![Screenshot do exercício ](assets/)
+![Screenshot do exercício ](assets/315_screenshot.png)
 
 ### Exercício 03 - Médio - 324. Wiggle Sort II
 
 ![Screenshot do exercício ](assets/324_screenshot.png)
 
-### Exercício 04 - Médio -
+### Exercício 04 - Médio - Kth Largest Element in an Array
 
-![Screenshot do exercício](assets/)
+![Screenshot do exercício](assets/215_screenshot.png)
 
 ## Vídeo de apresentação do Trabalho 4
 
