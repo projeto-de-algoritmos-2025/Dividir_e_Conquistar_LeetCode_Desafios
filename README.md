@@ -34,7 +34,7 @@ A linguagem de programação utilizada para resolver cada exercício foi o Pytho
 
 ![Screenshot do exercício ](assets/324_screenshot.png)
 
-### Exercício 04 - Médio - Kth Largest Element in an Array
+### Exercício 04 - Médio - 215. Kth Largest Element in an Array
 
 ![Screenshot do exercício](assets/215_screenshot.png)
 
