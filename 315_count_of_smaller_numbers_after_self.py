@@ -1,3 +1,7 @@
+'''
+315. Count of Smaller Numbers After Self: https://leetcode.com/problems/count-of-smaller-numbers-after-self/description/
+Exercício resolvido por Ester Flores e Eduardo Schuindt.
+'''
 class Solution:
     def countSmaller(self, nums: list[int]) -> list[int]:
         n = len(nums)
