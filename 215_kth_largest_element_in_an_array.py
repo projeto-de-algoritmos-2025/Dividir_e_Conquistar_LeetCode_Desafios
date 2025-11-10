@@ -1,3 +1,7 @@
+'''
+215. Kth Largest Element in an Array: https://leetcode.com/problems/kth-largest-element-in-an-array/description/
+Exercício resolvido por Ester Flores e Eduardo Schuindt.
+'''
 import random
 
 class Solution:
